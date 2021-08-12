@@ -5,7 +5,7 @@ We are instructed by the management to create a model to predict if a customer w
 ### Objective
 - using dataset downloaded from [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn/code)
 - performed Data Cleaning, Data Pre-processing and Feature Engineering on the dataset
-- trained a few baseline model and performed Hyperparameter Tuniing on the best baseline model to try and improve the result
+- trained a few baseline model and performed Hyperparameter Tuning on the best baseline model to try and improve the result
 ### Required Library:
 - Numpy
 - Pandas
